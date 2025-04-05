@@ -8,7 +8,7 @@ I'm a backend developer passionate about building systems that scale — clean c
 - High-performance backend engineering  
 - Distributed systems, caching, and database internals  
 - International casino platform integrations  
-- Handling high traffic with grace (and a bit of Redis magic)  
+- Handling massive traffic and high-concurrency systems  
 - Generative AI (especially using Golang)
 
 ---
@@ -21,8 +21,10 @@ I'm a backend developer passionate about building systems that scale — clean c
 ---
 
 ### 💞️ I’m looking to collaborate on:
+- High-load backend systems  
+- International casino integrations  
+- Big casino backend architecture and optimizations  
 - Open source Golang projects  
-- High-load, real-time backend systems  
 - Tools that make devs’ lives easier
 
 ---
@@ -33,13 +35,13 @@ I'm a backend developer passionate about building systems that scale — clean c
 - **Databases:** PostgreSQL, MongoDB  
 - **Cache:** Redis, Ristretto  
 - **DevOps:** Docker, Docker Compose  
-- **Specialties:** iGaming integrations, traffic-heavy APIs, fault-tolerant services
+- **Specialties:** iGaming integrations, casino backends, traffic-heavy APIs, fault-tolerant services
 
 ---
 
 ### 📫 How to reach me:
-- Email: [dhairyakoshta@outlook.com]  
-- LinkedIn: [linkedin.com/in/dhairya_1404](https://linkedin.com/in/dhairya_1404)  
+- Email: [your-email@example.com]  
+- LinkedIn: [linkedin.com/in/dhairya1404](https://linkedin.com/in/dhairya1404)  
 
 ---
 
@@ -49,7 +51,7 @@ He/Him
 ---
 
 ### ⚡ Fun fact:
-Built APIs that survived traffic spikes… and still served millisecond responses.  
+Built APIs that handled casino traffic like a boss 🎰  
 Also, `panic()` is reserved for production incidents 😅
 
 ---
