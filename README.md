@@ -38,9 +38,8 @@ I'm a backend developer passionate about building systems that scale — clean c
 ---
 
 ### 📫 How to reach me:
-- Email: [your-email@example.com]  
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- Email: [dhairyakoshta@outlook.com]  
+- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/dhairya_1404)  
 
 ---
 
