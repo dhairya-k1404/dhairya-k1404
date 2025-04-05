@@ -39,7 +39,7 @@ I'm a backend developer passionate about building systems that scale — clean c
 
 ### 📫 How to reach me:
 - Email: [dhairyakoshta@outlook.com]  
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/dhairya_1404)  
+- LinkedIn: [linkedin.com/in/dhairya_1404](https://linkedin.com/in/dhairya_1404)  
 
 ---
 
